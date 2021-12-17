@@ -8,7 +8,7 @@ float calculaMedia(float n1, float n2, float n3){
 }
 
 int main (){
-
+    float n1, n2, n3;
     system("pause");
     system ("cls");
     return 0;
