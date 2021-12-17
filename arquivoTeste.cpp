@@ -9,6 +9,10 @@ float calculaMedia(float n1, float n2, float n3){
 
 int main (){
     float n1, n2, n3;
+    cout << "informe as notas 1, 2 e 3: ";
+    cin >> n1 >> n2 >> n3;
+
+    
     system("pause");
     system ("cls");
     return 0;
