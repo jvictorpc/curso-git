@@ -12,6 +12,7 @@ int main (){
     cout << "informe as notas 1, 2 e 3: ";
     cin >> n1 >> n2 >> n3;
 
+    cout << "a média é : " << calculaMedia(n1,n2, n3) << endl;
     
     system("pause");
     system ("cls");
