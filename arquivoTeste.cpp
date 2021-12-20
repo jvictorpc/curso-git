@@ -15,5 +15,6 @@ int main (){
     cout << "a média é : " << calculaMedia(n1,n2, n3) << endl;
     
     system("pause");
+    system("cls")
     return 0;
 }
